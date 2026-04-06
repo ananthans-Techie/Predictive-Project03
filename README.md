@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/nayanack/water-probability
 3. Place the dataset inside the folder:
 
 ```bash
-water_potability.csv
+water_potability dataset 
 ```
 
 ---
@@ -104,40 +104,42 @@ Jupyter Notebook / Kaggle
 ---
 
 ### Model Workflow
-Load Dataset
-Data Preprocessing
-Handle missing values
-Feature scaling
-Exploratory Data Analysis (EDA)
-Distribution plots
-Correlation heatmap
-Feature Selection
-Model Training
-Logistic Regression
-Decision Tree
-Random Forest
-Model Evaluation
-Accuracy
-Confusion Matrix
-Precision & Recall
-Prediction System
-Input parameters
-Predict water potability
+
+* Load Dataset
+* Data Preprocessing
+* Handle missing values
+* Feature scaling
+* Exploratory Data Analysis (EDA)
+* Distribution plots
+* Correlation heatmap
+* Feature Selection
+* Model Training
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Model Evaluation
+* Accuracy
+* Confusion Matrix
+* Precision & Recall
+* Prediction System
+* Input parameters
+* Predict water potability
 
 --- 
 
 ### Future Improvements
-Use Deep Learning models (ANN, XGBoost)
-Integrate real-time IoT sensors
-Deploy as a web application (Flask / Streamlit)
-Add Water Quality Index (WQI)
-Improve dataset with region-specific data
+* Use Deep Learning models (ANN, XGBoost)
+* Integrate real-time IoT sensors
+*  Deploy as a web application (Flask / Streamlit)
+* Add Water Quality Index (WQI)
+* Improve dataset with region-specific data
 
 ---
 
 ### Author
 
-ANANTHAN S
+ANANTHAN S, 
+SHAHID MUHAMMAD
 
 
 
