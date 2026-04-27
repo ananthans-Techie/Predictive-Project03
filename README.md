@@ -138,7 +138,7 @@ streamlit run app.py
 ---
 
 ## 🤝 Contributing
-Pull requests and suggestions are welcome! Fork the repo and submit your improvements.
+ANANTHAN S, SHAHID MUHAMMAD
 
 ---
 
