@@ -3,7 +3,7 @@
 > A Real-Time, Region-Aware Water Quality Analysis Platform with Machine Learning, IoT Sensor Simulation, and Streamlit Deployment
  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Pending_Deployment-lightgrey?logo=streamlit)](https://share.streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live-blue?logo=streamlit)](https://predictive-project03-ug6mfxcp9ag8rssuuqvt27.streamlit.app/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)](https://xgboost.readthedocs.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-Predictive--Project03-black?logo=github)](https://github.com/ananthans-Techie/Predictive-Project03)
@@ -48,9 +48,12 @@ This project builds a complete **end-to-end machine learning pipeline** that:
  
 ## 🌐 Live Demo
  
-> **Streamlit App:** *(Streamlit deployment link will be added upon final deployment)*
- 
-> *(Screenshots will be added after deployment)*
+> **Streamlit App:** https://predictive-project03-ug6mfxcp9ag8rssuuqvt27.streamlit.app/
+
+ <img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/a22215fc-1a12-4cab-a107-6a19fc16d156" />
+
+ <img width="1920" height="885" alt="image" src="https://github.com/user-attachments/assets/93f161a0-e193-492d-87d8-36cc6c896b95" />
+
  
 ---
  
